@@ -1,5 +1,5 @@
 # PortfolioMaker
-An android app to automatically generate a portfolio from user inputs.
+A simple android app to automatically generate a portfolio from user inputs.
 
 The images below shows the steps of the purpose of this application:
 ![](img/InputField.PNG)   ![](img/InputField1.PNG)    ![](img/InputField2.PNG)
